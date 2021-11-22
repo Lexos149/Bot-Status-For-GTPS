@@ -66,3 +66,7 @@
 - Added HTTP Logs Webhook (Thanks to Galvin)
 ## Version 10.0
 - Added Anti Reader
+## Credit
+iLordNV#0002 / NevGT
+GuckTubeYT#3123 / GuckTubeYT
+GuckTubePC#3829 / GuckTubeYT
