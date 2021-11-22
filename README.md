@@ -68,5 +68,5 @@
 - Added Anti Reader
 ## Credit
 iLordNV#0002 / NevGT
-GuckTubeYT#3123 / GuckTubeYT
-GuckTubePC#3829 / GuckTubeYT
+,GuckTubeYT#3123 / GuckTubeYT
+,GuckTubePC#3829 / GuckTubeYT
