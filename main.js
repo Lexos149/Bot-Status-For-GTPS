@@ -1,12 +1,12 @@
 /*
-* Coded by: iLordNV#0002`
-* Helped by: Clayne, JadlionHD, Galvin and Fika, GuckTubeYT
+* Coded by: GuckTube YT
+* Helped by: Clayne, JadlionHD, Galvin and Fika
 * Credit Discord Bot example Code: eslachance
 * Dont forget to Credit me
 */
 
 /*
-* GNU License (C) 2020 LordSpeed Shop
+* GNU License (C) 2020 GuckTubeYT Project
 * This Licensed With Public. They All Leaked With Gotten TakeDown DMCA By Github.
 * We Do Not Responsible With They All TakeDown DMCA.
 */
@@ -124,7 +124,7 @@ client.on("ready", () => {
 		console.log(`Have Fun!`);
 	console.log(`=================================================`);
   console.log(`Bot Now Online!`);
-	  console.log(`Dont Sell This Bot GTPS`);
+	  console.log(`Dont Sell This Bot GTPS Cuz Leaked`);
   client.user.setActivity(`Growtopia Bot`);
 });
 
@@ -200,12 +200,12 @@ ${pf}httpstop (Stop HTTP Server)
     isRunning(config.exegtps, (status) => {
       if (status == true)
       {
-        m.edit("The server is UP")
+        m.edit("The server is UP @everyone")
         return;
       }
       else
       {
-        m.edit("The server is DOWN")
+        m.edit("The server is DOWN, PLS BE PANTIENT @everyone")
         return;
       }
   })
