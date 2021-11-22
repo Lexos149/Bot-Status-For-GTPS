@@ -26,7 +26,7 @@
 - Turn On/Off
 ## Version 2.0
 - "Background Issue" Has been Fixed!
-- In line 31 or https://github.com/GuckTubeYT/GTPSControllerDiscordBot/blob/master/main.js#L31 you can remove /* if you want to use selected user
+- In line 31 or https://github.com/Lexos149/Bot-Status-For-GTPS/blob/main/main.js you can remove /* if you want to use selected user
 ## Version 3.0
 - Added Count for Folder Player and Worlds
 - Deleted UserID Options
