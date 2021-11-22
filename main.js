@@ -1,12 +1,12 @@
 /*
-* Coded by: GuckTube YT
-* Helped by: Clayne, JadlionHD, Galvin and Fika
+* Coded by: iLordNV#0002
+* Helped by: Clayne, JadlionHD, Galvin and Fika, GucktubeYT
 * Credit Discord Bot example Code: eslachance
 * Dont forget to Credit me
 */
 
 /*
-* GNU License (C) 2020 GuckTubeYT Project
+* GNU License (C) 2020 LordSpeed Shop
 * This Licensed With Public. They All Leaked With Gotten TakeDown DMCA By Github.
 * We Do Not Responsible With They All TakeDown DMCA.
 */
