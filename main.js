@@ -1,5 +1,5 @@
 /*
-* Coded by: iLordNV#0002
+* Coded by: GuckTubeYT
 * Helped by: Clayne, JadlionHD, Galvin and Fika, GucktubeYT
 * Credit Discord Bot example Code: eslachance
 * Dont forget to Credit me
@@ -119,8 +119,8 @@ const isRunning = (query, cb) => {
 
 
 client.on("ready", () => {
-	console.log(`Bot Project By iLordNV#0002`);
-		console.log(`Credit To GuckTubeYT`);
+	console.log(`Bot Project By GucktubeYT`);
+		console.log(`Credit To GuckTubeYT,GALVIN AND OTHERS`);
 		console.log(`Have Fun!`);
 	console.log(`=================================================`);
   console.log(`Bot Now Online!`);
